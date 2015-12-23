@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\rex\\AndroidStudioProjects\\BarcodeScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\share.xml",
+        "source": "C:\\Users\\rex\\AndroidStudioProjects\\BarcodeScanner\\app\\src\\main\\res\\layout-land\\share.xml"
+    },
+    {
+        "merged": "C:\\Users\\rex\\AndroidStudioProjects\\BarcodeScanner\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\encode.xml",
+        "source": "C:\\Users\\rex\\AndroidStudioProjects\\BarcodeScanner\\app\\src\\main\\res\\layout-land\\encode.xml"
+    }
+]
